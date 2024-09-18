@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olli-source
 - 👀 I’m interested in Batch
-- 🌱 I’m currently learning Batch coding
+- 🌱 I’m currently working on an Bacth multitool
 - 💞️ I’m looking to collaborate on [to small]
 - 📫 How to reach me ...
 - ⚡ Fun fact: @echo off
